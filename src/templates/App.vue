@@ -9,7 +9,7 @@
     name: 'app',
     data () {
       return {
-        msg: 'Thomas est le plus beau après moi'
+        msg: 'Welcome to Parcel starter with Vue.js'
       }
     }
   }
